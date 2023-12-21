@@ -8,6 +8,9 @@ document.addEventListener("keydown", function (event) {
     }
   });
 
+
+
+
   const dodger = document.getElementById("dodger");
 
   function moveDodgerLeft() {
